@@ -51,6 +51,7 @@ buck-out/
 /ios/Pods/
 
 # Expo
+.env
 .expo/
 web-build/
 dist/
